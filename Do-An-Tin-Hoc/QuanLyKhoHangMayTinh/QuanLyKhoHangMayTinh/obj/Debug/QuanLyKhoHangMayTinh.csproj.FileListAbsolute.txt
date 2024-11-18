@@ -1,0 +1,10 @@
+C:\Users\admin\OneDrive\Máy tính\code\Do-An-Tin-Hoc\QuanLyKhoHangMayTinh\QuanLyKhoHangMayTinh\bin\Debug\QuanLyKhoHangMayTinh.exe.config
+C:\Users\admin\OneDrive\Máy tính\code\Do-An-Tin-Hoc\QuanLyKhoHangMayTinh\QuanLyKhoHangMayTinh\bin\Debug\QuanLyKhoHangMayTinh.exe
+C:\Users\admin\OneDrive\Máy tính\code\Do-An-Tin-Hoc\QuanLyKhoHangMayTinh\QuanLyKhoHangMayTinh\bin\Debug\QuanLyKhoHangMayTinh.pdb
+C:\Users\admin\OneDrive\Máy tính\code\Do-An-Tin-Hoc\QuanLyKhoHangMayTinh\QuanLyKhoHangMayTinh\obj\Debug\QuanLyKhoHangMayTinh.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Máy tính\code\Do-An-Tin-Hoc\QuanLyKhoHangMayTinh\QuanLyKhoHangMayTinh\obj\Debug\QuanLyKhoHangMayTinh.Properties.Resources.resources
+C:\Users\admin\OneDrive\Máy tính\code\Do-An-Tin-Hoc\QuanLyKhoHangMayTinh\QuanLyKhoHangMayTinh\obj\Debug\QuanLyKhoHangMayTinh.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Máy tính\code\Do-An-Tin-Hoc\QuanLyKhoHangMayTinh\QuanLyKhoHangMayTinh\obj\Debug\QuanLyKhoHangMayTinh.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Máy tính\code\Do-An-Tin-Hoc\QuanLyKhoHangMayTinh\QuanLyKhoHangMayTinh\obj\Debug\QuanLyKhoHangMayTinh.exe
+C:\Users\admin\OneDrive\Máy tính\code\Do-An-Tin-Hoc\QuanLyKhoHangMayTinh\QuanLyKhoHangMayTinh\obj\Debug\QuanLyKhoHangMayTinh.pdb
+C:\Users\admin\OneDrive\Máy tính\code\Do-An-Tin-Hoc\QuanLyKhoHangMayTinh\QuanLyKhoHangMayTinh\obj\Debug\QuanLyKhoHangMayTinh.FormNhapHang.resources
