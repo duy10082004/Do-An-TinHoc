@@ -59,5 +59,41 @@ namespace QuanLyKhoHangMayTinh.NhapHang
             }
             return result;
         }
+
+        private List <QuanLyHangNhap> dsMHTheoDH = new List<QuanLyHangNhap>();
+        public List<QuanLyHangNhap> DsMHTHeoDH
+        {
+            get
+            {
+                return dsMHTheoDH;
+            }
+            set
+            {
+                dsMHTheoDH = value;
+            }
+        }
+        
+        public bool checkMHTheoDH (string tmp)
+        {
+            foreach(QuanLyHangNhap idx in matHangArr)
+            {
+                if (idx.Nh_MaDonNhap == tmp)
+                {
+                    dsMHTheoDH.Add(idx);
+                }
+            }
+
+            if (dsMHTheoDH != null)
+            {
+                return true;
+            }
+            else
+            {
+                return false ;
+            }
+        }
+
+
+
     }
 }

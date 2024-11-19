@@ -45,7 +45,11 @@ namespace QuanLyKhoHangMayTinh.NhapHang
         {
             get
             {
-                return dshn.Nh_ThanhTienDonHangNhap(nh_MaDonHangNhap);
+                return nh_ThanhTienDonHangNhap;
+            }
+            set
+            {
+                nh_ThanhTienDonHangNhap= value;
             }
         }
 

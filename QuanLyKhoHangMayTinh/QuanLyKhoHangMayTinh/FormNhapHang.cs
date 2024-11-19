@@ -77,7 +77,7 @@ namespace QuanLyKhoHangMayTinh
                 MessageBox.Show("Đã Thêm!!");
                 renderDGV(dgvMatHang, dsMH.MatHangArr);
                 this.dgvMatHang.Columns["nh_MaNhanVien"].Visible = false;
-                //this.dgvMatHang.Columns["nh_MaDonNhap"].Visible = false;
+                this.dgvMatHang.Columns["nh_MaDonNhap"].Visible = false;
                 reset();
 
             }
@@ -109,7 +109,6 @@ namespace QuanLyKhoHangMayTinh
         {
             
             dsMH.MatHangArr[mhidx].Nh_SoLuong = int.Parse(txt_NhSoLuong.Text);
-            //dsMH.MatHangArr[mhidx].Nh_NgayNhapHang = dt_NhNgayNhapHang.Value;
             dsMH.MatHangArr[mhidx].Nh_TenHangHoa = txt_NhTenHangHoa.Text;
             dsMH.MatHangArr[mhidx].Nh_MaHangHoa = txt_NhMaHangHoa.Text;
             dsMH.MatHangArr[mhidx].Nh_GiaNhap =int.Parse(txt_NhGiaNhap.Text);
@@ -136,9 +135,14 @@ namespace QuanLyKhoHangMayTinh
             index++;
         }
 
-        private void txt_NhMaHangHoa_TextChanged(object sender, EventArgs e)
+        private void dgv_DonNhapHang_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            //hhehdsadbhadfg hadfgadfaygh
+            DataGridViewRow row = new DataGridViewRow();
+            row = dgv_DonNhapHang.Rows[e.RowIndex];
+            string maDH = Convert.ToString(row.Cells["col_MaDH"].Value);
+            dsMH.checkMHTheoDH(maDH);
+            renderDGV(dgvMatHang, dsMH.DsMHTHeoDH);
+
         }
     }
 }

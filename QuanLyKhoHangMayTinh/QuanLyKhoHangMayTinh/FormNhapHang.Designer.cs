@@ -57,7 +57,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.col_MaDH = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_DonNhapHang)).BeginInit();
@@ -139,12 +139,13 @@
             this.dgv_DonNhapHang.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.Column1,
             this.Column2,
-            this.Column3,
+            this.col_MaDH,
             this.Column4});
             this.dgv_DonNhapHang.Location = new System.Drawing.Point(6, 240);
             this.dgv_DonNhapHang.Name = "dgv_DonNhapHang";
             this.dgv_DonNhapHang.Size = new System.Drawing.Size(454, 248);
             this.dgv_DonNhapHang.TabIndex = 10;
+            this.dgv_DonNhapHang.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgv_DonNhapHang_CellClick);
             this.dgv_DonNhapHang.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView2_CellContentClick);
             // 
             // groupBox2
@@ -305,7 +306,6 @@
             this.txt_NhMaHangHoa.Name = "txt_NhMaHangHoa";
             this.txt_NhMaHangHoa.Size = new System.Drawing.Size(373, 20);
             this.txt_NhMaHangHoa.TabIndex = 1;
-            this.txt_NhMaHangHoa.TextChanged += new System.EventHandler(this.txt_NhMaHangHoa_TextChanged);
             // 
             // label2
             // 
@@ -328,11 +328,11 @@
             this.Column2.HeaderText = "Ngày Nhập";
             this.Column2.Name = "Column2";
             // 
-            // Column3
+            // col_MaDH
             // 
-            this.Column3.DataPropertyName = "nh_MaDonHangNhap";
-            this.Column3.HeaderText = "Mã Đơn Hàng";
-            this.Column3.Name = "Column3";
+            this.col_MaDH.DataPropertyName = "nh_MaDonHangNhap";
+            this.col_MaDH.HeaderText = "Mã Đơn Hàng";
+            this.col_MaDH.Name = "col_MaDH";
             // 
             // Column4
             // 
@@ -397,7 +397,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn col_NgayNhap;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
+        private System.Windows.Forms.DataGridViewTextBoxColumn col_MaDH;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column4;
     }
 }
