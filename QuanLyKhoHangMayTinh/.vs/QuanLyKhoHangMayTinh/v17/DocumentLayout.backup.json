@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\code\\Do-An-Tin-Hoc\\QuanLyKhoHangMayTinh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC71A252-BDD7-46F3-B45B-923B33F5EEAA}|QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\code\\do-an-tin-hoc\\quanlykhohangmaytinh\\quanlykhohangmaytinh\\nhaphang\\danhsachhangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC71A252-BDD7-46F3-B45B-923B33F5EEAA}|QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh.csproj|solutionrelative:quanlykhohangmaytinh\\nhaphang\\danhsachhangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC71A252-BDD7-46F3-B45B-923B33F5EEAA}|QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\code\\do-an-tin-hoc\\quanlykhohangmaytinh\\quanlykhohangmaytinh\\nhaphang\\quanlyhangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC71A252-BDD7-46F3-B45B-923B33F5EEAA}|QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh.csproj|solutionrelative:quanlykhohangmaytinh\\nhaphang\\quanlyhangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC71A252-BDD7-46F3-B45B-923B33F5EEAA}|QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\code\\do-an-tin-hoc\\quanlykhohangmaytinh\\quanlykhohangmaytinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC71A252-BDD7-46F3-B45B-923B33F5EEAA}|QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh.csproj|solutionrelative:quanlykhohangmaytinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC71A252-BDD7-46F3-B45B-923B33F5EEAA}|QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\code\\do-an-tin-hoc\\quanlykhohangmaytinh\\quanlykhohangmaytinh\\nhaphang\\danhsachdonhangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC71A252-BDD7-46F3-B45B-923B33F5EEAA}|QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh.csproj|solutionrelative:quanlykhohangmaytinh\\nhaphang\\danhsachdonhangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC71A252-BDD7-46F3-B45B-923B33F5EEAA}|QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\code\\do-an-tin-hoc\\quanlykhohangmaytinh\\quanlykhohangmaytinh\\formnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC71A252-BDD7-46F3-B45B-923B33F5EEAA}|QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh.csproj|solutionrelative:quanlykhohangmaytinh\\formnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC71A252-BDD7-46F3-B45B-923B33F5EEAA}|QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\code\\do-an-tin-hoc\\quanlykhohangmaytinh\\quanlykhohangmaytinh\\formnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC71A252-BDD7-46F3-B45B-923B33F5EEAA}|QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh.csproj|solutionrelative:quanlykhohangmaytinh\\formnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DanhSachDonHangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\code\\Do-An-Tin-Hoc\\QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh\\NhapHang\\DanhSachDonHangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyKhoHangMayTinh\\NhapHang\\DanhSachDonHangNhap.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\code\\Do-An-Tin-Hoc\\QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh\\NhapHang\\DanhSachDonHangNhap.cs",
+              "RelativeToolTip": "QuanLyKhoHangMayTinh\\NhapHang\\DanhSachDonHangNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:13:37.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLyHangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\code\\Do-An-Tin-Hoc\\QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh\\NhapHang\\QuanLyHangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyKhoHangMayTinh\\NhapHang\\QuanLyHangNhap.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\code\\Do-An-Tin-Hoc\\QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh\\NhapHang\\QuanLyHangNhap.cs",
+              "RelativeToolTip": "QuanLyKhoHangMayTinh\\NhapHang\\QuanLyHangNhap.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAuwHgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:48:33.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DanhSachHangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\code\\Do-An-Tin-Hoc\\QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh\\NhapHang\\DanhSachHangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyKhoHangMayTinh\\NhapHang\\DanhSachHangNhap.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\code\\Do-An-Tin-Hoc\\QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh\\NhapHang\\DanhSachHangNhap.cs",
+              "RelativeToolTip": "QuanLyKhoHangMayTinh\\NhapHang\\DanhSachHangNhap.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:41:40.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormNhapHang.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\code\\Do-An-Tin-Hoc\\QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh\\FormNhapHang.cs",
+              "RelativeDocumentMoniker": "QuanLyKhoHangMayTinh\\FormNhapHang.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\code\\Do-An-Tin-Hoc\\QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh\\FormNhapHang.cs",
+              "RelativeToolTip": "QuanLyKhoHangMayTinh\\FormNhapHang.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAwA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:31:26.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\code\\Do-An-Tin-Hoc\\QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyKhoHangMayTinh\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\code\\Do-An-Tin-Hoc\\QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh\\Program.cs",
+              "RelativeToolTip": "QuanLyKhoHangMayTinh\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:02:20.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "4e60d109-c8bf-4803-a6a9-5129d8a5c167",
+        "Display": 1,
+        "X": -5,
+        "Y": 111,
+        "Width": 1158,
+        "Height": 775,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormNhapHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\code\\Do-An-Tin-Hoc\\QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh\\FormNhapHang.cs",
+              "RelativeDocumentMoniker": "QuanLyKhoHangMayTinh\\FormNhapHang.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\code\\Do-An-Tin-Hoc\\QuanLyKhoHangMayTinh\\QuanLyKhoHangMayTinh\\FormNhapHang.cs [Design]",
+              "RelativeToolTip": "QuanLyKhoHangMayTinh\\FormNhapHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:30:15.303Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
