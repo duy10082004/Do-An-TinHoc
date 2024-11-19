@@ -138,7 +138,7 @@ namespace QuanLyKhoHangMayTinh
 
         private void txt_NhMaHangHoa_TextChanged(object sender, EventArgs e)
         {
-
+            //hhehdsadbhadfg hadfgadfaygh
         }
     }
 }
